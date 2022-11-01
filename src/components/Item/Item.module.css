@@ -36,6 +36,12 @@
   justify-content: center;
 }
 
+.menu_btn {
+  border: none;
+  background-color: #ffffff;
+  height: 23px;
+}
+
 .dots {
   position: relative;
   cursor: pointer;

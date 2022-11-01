@@ -87,12 +87,14 @@ export const Item = ({
         )}
       </div>
       <div className={styles.menu} ref={popRef}>
-        <img
+        <button className={styles.menu_btn}>
+          <img
           src={menu}
           className={styles.dots}
           onClick={togglePopUp}
           alt='menu'
         />
+        </button>
         {isOpen && (
           <div className={styles.popup}>
             <ul>
