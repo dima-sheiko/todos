@@ -15,7 +15,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 10px;
+  gap: 8px;
 }
 
 .completed {
@@ -39,18 +39,19 @@
 .menu_btn {
   border: none;
   background-color: #ffffff;
-  height: 23px;
+  height: 25px;
 }
 
 .dots {
   position: relative;
   cursor: pointer;
-  width: 23px;
+  height: 25px;
 }
 
 .popup {
   position: absolute;
-  left: 0;
+  left: 20px;
+  top: 20px;
   margin-top: 5px;
   padding: 5px;
   background: #ffffff;
@@ -102,13 +103,12 @@
 input[type='checkbox'] {
   -webkit-appearance: none;
   appearance: none;
-  margin: 0;
+  margin-left: 10px;
   font: inherit;
   width: 17px;
   height: 17px;
   border: 0.15em solid black;
   border-radius: 5px;
-  transform: translateY(-0.075em);
   display: grid;
   place-content: center;
   cursor: pointer;
@@ -140,10 +140,6 @@ input:focus {
   .popup {
     left: -80px;
     font-size: 14px;
-  }
-
-  .dots {
-    width: 22px;
   }
 }
 
