@@ -1,6 +1,6 @@
 # todos
 
-<b>Simple task tracker built with React and TypeScript.</b>
+<b>Task tracker built with React and TypeScript.</b>
 
 Functionality: 
 <ul>
