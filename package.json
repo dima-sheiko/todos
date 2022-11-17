@@ -1,6 +1,6 @@
 {
   "name": "task-tracker-ts",
-  "homepage": "https://dima-sheiko.github.io/task-tracker-ts",
+  "homepage": "https://dima-sheiko.github.io/todos",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
