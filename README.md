@@ -12,4 +12,4 @@ Functionality:
   <li>Adaptive design</li>
 </ul>
 
-👉 [Live Demo](https://dima-sheiko.github.io/task-tracker-ts/)
+👉 [Live Demo](https://dima-sheiko.github.io/todos/)
